@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22919826626",
+    "project_id": "clothes-de109",
+    "storage_bucket": "clothes-de109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22919826626:android:d84a3129d6844a04637f5b",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22919826626-nbies8lnd5u4orcj6n4luoh5tj3kaa0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5s49mHQUiZ7mG5CY1eZpU4Y4hswt1hM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22919826626-nbies8lnd5u4orcj6n4luoh5tj3kaa0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
